@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Sho kau!");
             Console.WriteLine("This is a C# console application");
-            Console.WriteLine("Running an NET 10.0 ");
+            Console.WriteLine("I am Khenasni Singo ");
         }
     }
 }
